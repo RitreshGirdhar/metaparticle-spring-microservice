@@ -1,10 +1,10 @@
-# microservice-metaparticle-demp
+# Metaparticle demo
 
+Metaparticle/Package simplifies the task of building and deploying container images. Metaparticle/Package is a collection of libraries that enable programmers to build and deploy containers using code that feels familiar to them.
 
-https://metaparticle.io/tutorials/java/ 
+For more detail, check [this](https://metaparticle.io/tutorials/java/).
 
-Chapter 8 
-
+### Sample code
 ```
 import static io.metaparticle.Metaparticle.Containerize;
 @SpringBootApplication
