@@ -4,6 +4,7 @@ Metaparticle/Package simplifies the task of building and deploying container ima
 
 For more detail, check [this](https://metaparticle.io/tutorials/java/).
 
+
 ### Sample code
 ```
 import static io.metaparticle.Metaparticle.Containerize;
@@ -28,5 +29,6 @@ class HelloController {
         return String.format("Hello containers [%s] from %s",
                 request.getRequestURL(), System.getenv("HOSTNAME"));
 } }
-
 ```
+
+Happy Reading !!!
